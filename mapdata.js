@@ -331,32 +331,32 @@ var simplemaps_usmap_mapdata = {
 		// Territories - Hidden unless hide is set to "no"
 		"GU": {
 			name: 'Guam',
-			description: 'The Weatherization and Intergovernmental Programs Office provides annual funding to states, U.S. territories, the District of Columbia, and Native American Tribes.  More information on this U.S. territory coming soon.',
-			url: '',
+			description: 'default',
+			url: 'https://energy.gov/node/3223684',
 			hide: 'no'
 			},
 		"VI": {
-			name: 'Virgin Islands',
-			description: 'The Weatherization and Intergovernmental Programs Office provides annual funding to states, U.S. territories, the District of Columbia, and Native American Tribes.  More information on this U.S. territory coming soon.',
-			url: '',
+			name: 'U.S. Virgin Islands',
+			description: 'default',
+			url: 'https://energy.gov/node/3223859',
 			hide: 'no'
 			},
 		"PR": {
 			name: 'Puerto Rico',
-			description: 'The Weatherization and Intergovernmental Programs Office provides annual funding to states, U.S. territories, the District of Columbia, and Native American Tribes.  More information on this U.S. territory coming soon.',
-			url: '',
+			description: 'default',
+			url: 'https://energy.gov/node/3223796',
 			hide: 'no'
 			},
 		"AS": {
 			name: 'American Samoa',
-			description: 'The Weatherization and Intergovernmental Programs Office provides annual funding to states, U.S. territories, the District of Columbia, and Native American Tribes.  More information on this U.S. territory coming soon.',
-			url: '',
+			description: 'default',
+			url: 'https://energy.gov/node/3223180',
 			hide: 'no'
 		},
 		"MP": {
 			name: 'Northern Mariana Islands',
-			description: 'The Weatherization and Intergovernmental Programs Office provides annual funding to states, U.S. territories, the District of Columbia, and Native American Tribes.  More information on this U.S. territory coming soon.',
-			url: '',
+			description: 'default',
+			url: 'https://energy.gov/node/3223712',
 			hide: 'no'
 			}
 		}
