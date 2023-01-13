@@ -9,7 +9,7 @@ var simplemaps_usmap_mapdata = {
 		popups: 'detect', //on_click, on_hover, or detect
 
 		//State defaults
-		state_description: '<hr class="state" />Learn more about <span class="stateProjects"></span> energy efficiency and renewable energy projects and weatherization activities supported by the Weatherization and Intergovernmental Programs Office.',
+		state_description: '<hr class="state" />Learn more about <span class="stateProjects"></span> energy efficiency and renewable energy projects and weatherization activities supported by SCEP.',
 		state_color: '#0B5E90',
 		state_hover_color: '#00A4E4',
 		state_url: '',
